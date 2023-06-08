@@ -508,7 +508,7 @@ export function Settings() {
               subTitle={Locale.Settings.Token.SubTitle}
             >
               <PasswordInput
-                value={accessStore.token}
+                value={Locale.Settings.Token.Token}
                 type="text"
                 placeholder={Locale.Settings.Token.Placeholder}
                 onChange={(e) => {

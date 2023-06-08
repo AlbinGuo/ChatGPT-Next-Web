@@ -151,6 +151,7 @@ const cn = {
       Title: "API Key",
       SubTitle: "使用自己的 Key 可绕过密码访问限制",
       Placeholder: "OpenAI API Key",
+      Token: "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",
     },
 
     Usage: {
