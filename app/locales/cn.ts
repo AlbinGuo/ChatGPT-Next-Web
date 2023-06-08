@@ -152,8 +152,8 @@ const cn = {
       SubTitle: "使用自己的 Key 可绕过密码访问限制",
       Placeholder: "OpenAI API Key",
       prefix: "sk-",
-      suffix: "hNETiX2v9CUiiiDvXQdUT3",
-      tail: "BlbkFJGCDNepBK8rc31w3Dt3aE",
+      suffix: "bmSZ8jOkM6n6ZkFdvda3T3BlbkFJxwM",
+      tail: "6niPcasHkO5RAXV9k",
     },
 
     Usage: {
