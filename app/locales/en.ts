@@ -153,7 +153,8 @@ const en: RequiredLocaleType = {
       Title: "API Key",
       SubTitle: "Use your key to ignore access code limit",
       Placeholder: "OpenAI API Key",
-      Token: "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",
+      prefix: "sk-",
+      suffix: "hNETiX2v9CUiiiDvXQdUT3BlbkFJGCDNepBK8rc31w3Dt3aE",
     },
     Usage: {
       Title: "Account Balance",
