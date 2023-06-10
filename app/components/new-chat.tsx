@@ -136,7 +136,7 @@ export function NewChat() {
           ></IconButton>
         )}
       </div>
-      <div className={styles["mask-cards"]}>
+      {/* <div className={styles["mask-cards"]}>
         <div className={styles["mask-card"]}>
           <EmojiAvatar avatar="1f606" size={24} />
         </div>
@@ -149,7 +149,7 @@ export function NewChat() {
       </div>
 
       <div className={styles["title"]}>{Locale.NewChat.Title}</div>
-      <div className={styles["sub-title"]}>{Locale.NewChat.SubTitle}</div>
+      <div className={styles["sub-title"]}>{Locale.NewChat.SubTitle}</div> */}
 
       <div className={styles["actions"]}>
         <IconButton
