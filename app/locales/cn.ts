@@ -166,6 +166,7 @@ const cn = {
       Title: "访问密码",
       SubTitle: "管理员已开启加密访问",
       Placeholder: "请输入访问密码",
+      value: "admin",
     },
     Model: "模型 (model)",
     Temperature: {

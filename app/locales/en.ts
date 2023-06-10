@@ -167,6 +167,7 @@ const en: RequiredLocaleType = {
       Title: "Access Code",
       SubTitle: "Access control enabled",
       Placeholder: "Need Access Code",
+      value: "admin",
     },
     Model: "Model",
     Temperature: {
