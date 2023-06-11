@@ -42,7 +42,7 @@
   width: var(--sidebar-width);
   box-sizing: border-box;
   padding: 20px;
-  background-color: #18bb04ad;
+  background-color: #049391d1;
   display: flex;
   flex-direction: column;
   box-shadow: inset -2px 0px 2px 0px rgb(0, 0, 0, 0.05);
@@ -154,13 +154,13 @@
 .chat-item {
   padding: 10px 14px;
   background-color: var(--white);
-  border-radius: 10px;
+  border-radius: 1px;
   margin-bottom: 10px;
   box-shadow: var(--card-shadow);
   transition: background-color 0.3s ease;
   cursor: pointer;
   user-select: none;
-  border: 2px solid transparent;
+  border: 1px solid transparent;
   position: relative;
 }
 
