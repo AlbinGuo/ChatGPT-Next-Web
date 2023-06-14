@@ -153,14 +153,13 @@
 
 .chat-item {
   padding: 10px 14px;
-  background-color: var(--white);
+  border: 1px dashed orange;
   border-radius: 1px;
   margin-bottom: 10px;
   box-shadow: var(--card-shadow);
   transition: background-color 0.3s ease;
   cursor: pointer;
   user-select: none;
-  border: 1px solid transparent;
   position: relative;
 }
 
@@ -400,7 +399,7 @@
   font-size: 14px;
   user-select: text;
   word-break: break-word;
-  border: 1px dashed orange;
+  //border: 1px dashed orange;
   position: relative;
   margin: 10px 20px;
 }
