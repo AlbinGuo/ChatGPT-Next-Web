@@ -155,7 +155,14 @@ export function SideBar(props: { className?: string }) {
       >
         <ChatList narrow={shouldNarrow} />
       </div>
-
+      <div className={styles["erweima-desc"]}>
+        您的每一次赞助,都是网站活下去的动力
+      </div>
+      <div className={styles["erweima-desc"]}>
+        Every donation you make is the driving force behind keeping the website
+        alive.
+      </div>
+      <div className={styles["erweima"]}></div>
       <div className={styles["sidebar-tail"]}>
         <div className={styles["sidebar-actions"]}>
           <div className={styles["sidebar-action"] + " " + styles.mobile}>
@@ -168,6 +175,7 @@ export function SideBar(props: { className?: string }) {
               }}
             />
           </div>
+
           <div className={styles["sidebar-action"]}>
             <Link to={Path.Settings}>
               <IconButton icon={<SettingsIcon />} shadow />
